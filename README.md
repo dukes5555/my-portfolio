@@ -11,3 +11,8 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+AWS Route 53
+AWS S3
+AWS Certificate Manager - AWS IAM
+AWS IAM
+AWS Cloudfront
