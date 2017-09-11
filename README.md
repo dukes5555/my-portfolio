@@ -5,9 +5,9 @@ This is my professional portfolio. It uses AWS and ReactJS.
 ##Technologies Used
 
 Git and github
-SSH
-Brew
-HTML
+SSH (added key to github)
+Brew (mac os package manager)
+HTML (markup language)
 CSS
 Font Awesome
 Google Fonts
