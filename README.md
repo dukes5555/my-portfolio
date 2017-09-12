@@ -1,6 +1,6 @@
 # Nick Caccese's portfolio
 
-This is my professional portfolio. It uses AWS and ReactJS.
+This is my in progress portfolio. It uses AWS and ReactJS.
 
 ##Technologies Used
 
@@ -16,3 +16,7 @@ AWS S3
 AWS Certificate Manager - AWS IAM
 AWS IAM
 AWS Cloudfront
+AWS Codebuild
+AWS Codepipeline
+AWS Lambda
+AWS SNS
