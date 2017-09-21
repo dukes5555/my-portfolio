@@ -10,3 +10,4 @@ artifacts:
     - favicon.ico
     - styles/*
     - images/*
+    - react.html
